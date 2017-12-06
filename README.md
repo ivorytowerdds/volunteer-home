@@ -14,6 +14,9 @@ SQL Server 2000, Tomcat 8.0
 Procedure
 -------
 Take the function of signing up for example:
-The Model part is composed by two JavaBeans:*Register.java, ApplyMessage.Java*
+
+The Model part is composed by two JavaBeans: *Register.java, ApplyMessage.Java*
+
 The View part is composed by two JSP: *inputApplyMess.jsp,showApplyMess.jsp*
-The Controller part is composed by two Servlet:*GetMemberMess.java,HandleApplyMess.java*
+
+The Controller part is composed by two Servlet: *GetMemberMess.java,HandleApplyMess.java*
